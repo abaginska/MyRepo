@@ -1,2 +1,3 @@
 nowy plik do repozytorium
 
+i dodanie kilku linijek z git webside
