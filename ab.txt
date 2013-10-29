@@ -1,3 +1,5 @@
 nowy plik do repozytorium
 
 i dodanie kilku linijek z git webside
+
+a teraz zmianany z konsoli za pomoca app nano
