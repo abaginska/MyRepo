@@ -1,0 +1,6 @@
+wpisanie 
+kilku 
+lini
+dla sprawdzenia
+komendy  cat
+i jeszcze jedna bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo dluga linia kodu 
