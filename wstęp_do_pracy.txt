@@ -1,0 +1,8 @@
+﻿Temat: Automatyczne testy funkcjonalne stron WWW w oparciu o wybrane narzędzia
+
+Cel i zakres pracy:
+
+Celem pracy jest porównanie metod i narzędzi do tworzenia skryptów automatycznie wykonujšcych testy funkcjonalne stron WWW. W pracy wskazane zostanš wady i zalety testów automatycznych oraz oszacowany zostanie wpływ testów automatycznych na wydajnoć testowania oprogramowania. Dodatkowo narzędzia wybrane w pracy zostanš skalsyfikowane pod względem zaawansowania, czyli jakie funkcjonalnoci sš oferujš oraz wymogów jakie musi spełnić użytkownik aby moc zaczšć pracę z konkretnym narzędziem.
+
+Praca będzie obejmować utworzenie manualnego skryptu testów funkcjonalnych przykładowej strony webowej. Skrypt ten powstanie zgodnie z metodykš BDD (Behavior-Driven Development). Wyróżnione zostanš funkcjonalnoci strony, scenariusze testowe oraz przypadki testowe. Następnie na postawie tego dokumentu, przy użyciu kilku narzędzi do automatyzacji powstanš skrypty automatyczne. W każdym narzędziu zostanš napisane skrypty automatyczne pokrywajšce się ze skryptem manualnym. Następnie opiszę proces powstawania każdego ze skryptu, napotkane problemy i spostrzeżenia. Będę mierzyć czas w którym będš powstawały skrypty, nakład pracy i inne czynniki wpływajšce na pracę przy testach. Na koniec zmierzę i porównam czas działania skryptów. Procent pokrycia testów automatycznych z testem manualnym, oraz możliwoć wykonywania skryptów na kilku przeglšdarkach.
+
